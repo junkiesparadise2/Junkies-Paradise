@@ -1,0 +1,6 @@
+{
+  "name": "Junkies Paradise",
+  "description": "Premium travel agency crafting customized domestic and international itineraries. Explore more. Worry less.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
